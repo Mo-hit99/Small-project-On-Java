@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Acer
+ *
+ */
+module ATMMachine {
+}
